@@ -12,3 +12,5 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+#input1 {width:10%;height:30%;border: 2px dotted blue;}
+input {font-size:130%;}
